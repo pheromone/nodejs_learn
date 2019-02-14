@@ -6,3 +6,4 @@ nodejs学习历程
 >  [ 回调 事件监听 ]( https://github.com/pheromone/nodejs_learn/tree/master/nodejs%E5%9B%9E%E8%B0%83%E5%92%8C%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8 )    <br/>
 >  [ 搭建静态网页 ]( https://github.com/pheromone/nodejs_learn/tree/master/nodejs%E9%9D%99%E6%80%81web%E6%9C%8D%E5%8A%A1 )    <br/>
 >  [ get post ejs ]( https://github.com/pheromone/nodejs_learn/tree/master/staticFile-get-post-ejs )    <br/>
+>  [ node_route封装 ]( https://github.com/pheromone/nodejs_learn/tree/master/nodejs-router )    <br/>
